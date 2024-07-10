@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Linq;
 
+// Properties of a room that gives the general info: X and Y coords and his name (type)
 public class DungeonRoomInfo
 {
     public string dungeonRoomName;
